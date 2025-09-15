@@ -1,3 +1,1 @@
-https://smartinteriorcub.netlify.app/
-
-#![Uploading smartinterior.png…]()
+Project link:https://smartinteriorcub.netlify.app/
